@@ -13,5 +13,5 @@ The bot allows for the purchase of three currencies:
 - All purchases are logged and compiled at the end of the program 
 ## Usage
 - Download depencendies
-- Run main.py 
+- Run main.py  
 ![](https://github.com/Chrisyk/EpicBot/blob/main/Demo.gif)
