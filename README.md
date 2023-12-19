@@ -1,5 +1,5 @@
 # EpicBot
-Python >= 3.12.0  
+Python <= 3.12.0  
 ## Description  
 A bot that automatically buys items from the shop in the game Epic7.  
 The bot allows for the purchase of three currencies:
