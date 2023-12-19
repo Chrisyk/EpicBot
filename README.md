@@ -12,7 +12,7 @@ The bot allows for the purchase of three currencies:
 - The program features a mouse position and timing randomizer to prevent account bans.
 - All purchases are logged and compiled at the end of the program 
 ## Usage
-- Download depencendies
-- Run main.py  
+1. Download depencendies
+2. Run main.py  
   
 ![](https://github.com/Chrisyk/EpicBot/blob/main/Demo.gif)
