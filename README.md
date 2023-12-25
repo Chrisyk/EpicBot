@@ -1,7 +1,9 @@
 # EpicBot
 Python <= 3.12.0  
 ## Description  
-A bot that automatically buys items from the shop in the game Epic7.  
+an image detection bot to automate item purchases in the game Epic7. A screenshot is
+taken periodically, and the program looks for the specified currencies. If a match is found, the bot will purchase it using
+pyautogui.
 The bot allows for the purchase of three currencies:
 - Covenant bookmarks
 - Mystic bookmarks
